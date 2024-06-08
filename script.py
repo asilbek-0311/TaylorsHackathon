@@ -7,10 +7,10 @@ import csv
 agents = []
 
 
-for i in range(1, 21):
+for i in range(1, 201):
     employee = {
         "Employee_ID": i,
-        "Name": f"Employee_{i}",
+        "Name": f"CS00{i}",
         "Average Response Time (min)": round(random.uniform(0, 5), 2),
         "Average Resolution Time (min)": round(random.uniform(30, 60), 2),
         "First Contact Resolution Rate (%)": round(random.uniform(40, 80), 2),
