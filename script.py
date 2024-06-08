@@ -1,8 +1,9 @@
 # // make a script that will generate random number for 10 different varaibales and stores it in json file
 import json
 import random
+import csv
 
-metrics = ['employee_id', 'name', 'avg_rsp_time', 'avg_rsl_time', 'fst_contact_res_rt', 'csat', 'nps', 'ticket_vlm', 'ticket_backlog', 'agent_utalization_rate', 'escalation_rate', 'resolution_rate']
+# metrics = ['employee_id', 'name', 'avg_rsp_time', 'avg_rsl_time', 'fst_contact_res_rt', 'csat', 'nps', 'ticket_vlm', 'ticket_backlog', 'agent_utalization_rate', 'escalation_rate', 'resolution_rate']
 agents = []
 
 
@@ -30,6 +31,11 @@ data = {"employees": agents}
 
 with open('data.json', 'w') as f:
     json.dump(data, f, indent=4)
+
+with open('data.csv', 'w') as f:
+    writer = csv.DictWriter(f, fieldnames=agents[0].keys())
+    writer.writeheader()
+    writer.writerows(agents)
 
 
 # employee id
