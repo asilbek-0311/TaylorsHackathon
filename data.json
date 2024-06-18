@@ -2,263 +2,1023 @@
     "employees": [
         {
             "employee_id": "CS0000001",
-            "first_name": "Thomas",
-            "last_name": "Williamson",
-            "avg_resp_time": 1791.56,
-            "avg_reso_time": 1101.95,
-            "avg_contact_time": 629.86,
-            "csat": 1,
-            "tickets_total": 189,
-            "tickets_done": 119,
-            "tieckts_escalated": 31,
-            "tickets_open": 39
+            "first_name": "Christopher",
+            "last_name": "Barrera",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 3446.05,
+                    "avg_reso_time": 403.05,
+                    "avg_contact_time": 1107.06,
+                    "csat": 4,
+                    "tickets_total": 92,
+                    "tickets_done": 61,
+                    "tieckts_escalated": 29,
+                    "tickets_open": 2
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 7445.85,
+                    "avg_reso_time": 1030.42,
+                    "avg_contact_time": 1048.17,
+                    "csat": 1,
+                    "tickets_total": 163,
+                    "tickets_done": 36,
+                    "tieckts_escalated": 123,
+                    "tickets_open": 4
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 6547.07,
+                    "avg_reso_time": 674.74,
+                    "avg_contact_time": 1054.52,
+                    "csat": 3,
+                    "tickets_total": 188,
+                    "tickets_done": 152,
+                    "tieckts_escalated": 5,
+                    "tickets_open": 31
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 9433.35,
+                    "avg_reso_time": 1066.42,
+                    "avg_contact_time": 1468.68,
+                    "csat": 3,
+                    "tickets_total": 54,
+                    "tickets_done": 10,
+                    "tieckts_escalated": 13,
+                    "tickets_open": 31
+                }
+            ]
         },
         {
             "employee_id": "CS0000002",
-            "first_name": "Brittany",
-            "last_name": "Grace",
-            "avg_resp_time": 1797.04,
-            "avg_reso_time": 581.34,
-            "avg_contact_time": 914.41,
-            "csat": 4,
-            "tickets_total": 136,
-            "tickets_done": 61,
-            "tieckts_escalated": 16,
-            "tickets_open": 59
+            "first_name": "David",
+            "last_name": "Aronowitz",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 2354.12,
+                    "avg_reso_time": 1150.83,
+                    "avg_contact_time": 1737.06,
+                    "csat": 2,
+                    "tickets_total": 50,
+                    "tickets_done": 22,
+                    "tieckts_escalated": 26,
+                    "tickets_open": 2
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 7097.15,
+                    "avg_reso_time": 720.68,
+                    "avg_contact_time": 1126.09,
+                    "csat": 1,
+                    "tickets_total": 69,
+                    "tickets_done": 28,
+                    "tieckts_escalated": 16,
+                    "tickets_open": 25
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 2567.97,
+                    "avg_reso_time": 634.28,
+                    "avg_contact_time": 1324.94,
+                    "csat": 5,
+                    "tickets_total": 74,
+                    "tickets_done": 4,
+                    "tieckts_escalated": 37,
+                    "tickets_open": 33
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 5865.88,
+                    "avg_reso_time": 1175.13,
+                    "avg_contact_time": 1229.43,
+                    "csat": 2,
+                    "tickets_total": 127,
+                    "tickets_done": 123,
+                    "tieckts_escalated": 1,
+                    "tickets_open": 3
+                }
+            ]
         },
         {
             "employee_id": "CS0000003",
-            "first_name": "David",
-            "last_name": "Smith",
-            "avg_resp_time": 2340.58,
-            "avg_reso_time": 839.23,
-            "avg_contact_time": 954.93,
-            "csat": 4,
-            "tickets_total": 104,
-            "tickets_done": 72,
-            "tieckts_escalated": 15,
-            "tickets_open": 17
+            "first_name": "Nancy",
+            "last_name": "Day",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 2524.98,
+                    "avg_reso_time": 796.91,
+                    "avg_contact_time": 1772.48,
+                    "csat": 5,
+                    "tickets_total": 83,
+                    "tickets_done": 0,
+                    "tieckts_escalated": 73,
+                    "tickets_open": 10
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 4373.96,
+                    "avg_reso_time": 490.94,
+                    "avg_contact_time": 1761.22,
+                    "csat": 5,
+                    "tickets_total": 83,
+                    "tickets_done": 74,
+                    "tieckts_escalated": 5,
+                    "tickets_open": 4
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 6931.1,
+                    "avg_reso_time": 860.35,
+                    "avg_contact_time": 563.01,
+                    "csat": 4,
+                    "tickets_total": 121,
+                    "tickets_done": 59,
+                    "tieckts_escalated": 25,
+                    "tickets_open": 37
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 2388.97,
+                    "avg_reso_time": 1037.14,
+                    "avg_contact_time": 629.76,
+                    "csat": 5,
+                    "tickets_total": 152,
+                    "tickets_done": 132,
+                    "tieckts_escalated": 5,
+                    "tickets_open": 15
+                }
+            ]
         },
         {
             "employee_id": "CS0000004",
-            "first_name": "Michael",
-            "last_name": "Dipiano",
-            "avg_resp_time": 4590.96,
-            "avg_reso_time": 300.8,
-            "avg_contact_time": 1783.98,
-            "csat": 1,
-            "tickets_total": 175,
-            "tickets_done": 125,
-            "tieckts_escalated": 44,
-            "tickets_open": 6
+            "first_name": "Timothy",
+            "last_name": "Lassiter",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 1652.95,
+                    "avg_reso_time": 376.25,
+                    "avg_contact_time": 1265.75,
+                    "csat": 3,
+                    "tickets_total": 84,
+                    "tickets_done": 71,
+                    "tieckts_escalated": 4,
+                    "tickets_open": 9
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 8295.89,
+                    "avg_reso_time": 497.35,
+                    "avg_contact_time": 1465.63,
+                    "csat": 3,
+                    "tickets_total": 51,
+                    "tickets_done": 19,
+                    "tieckts_escalated": 20,
+                    "tickets_open": 12
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 3476.67,
+                    "avg_reso_time": 929.04,
+                    "avg_contact_time": 1052.97,
+                    "csat": 1,
+                    "tickets_total": 145,
+                    "tickets_done": 8,
+                    "tieckts_escalated": 93,
+                    "tickets_open": 44
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 2226.06,
+                    "avg_reso_time": 837.6,
+                    "avg_contact_time": 1193.52,
+                    "csat": 3,
+                    "tickets_total": 103,
+                    "tickets_done": 74,
+                    "tieckts_escalated": 5,
+                    "tickets_open": 24
+                }
+            ]
         },
         {
             "employee_id": "CS0000005",
-            "first_name": "Jone",
-            "last_name": "Payton",
-            "avg_resp_time": 6396.68,
-            "avg_reso_time": 828.66,
-            "avg_contact_time": 1986.62,
-            "csat": 3,
-            "tickets_total": 110,
-            "tickets_done": 48,
-            "tieckts_escalated": 41,
-            "tickets_open": 21
+            "first_name": "Grace",
+            "last_name": "Hunt",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 4198.43,
+                    "avg_reso_time": 477.38,
+                    "avg_contact_time": 1340.82,
+                    "csat": 4,
+                    "tickets_total": 172,
+                    "tickets_done": 28,
+                    "tieckts_escalated": 45,
+                    "tickets_open": 99
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 4544.64,
+                    "avg_reso_time": 1111.78,
+                    "avg_contact_time": 890.0,
+                    "csat": 5,
+                    "tickets_total": 129,
+                    "tickets_done": 43,
+                    "tieckts_escalated": 73,
+                    "tickets_open": 13
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 76.43,
+                    "avg_reso_time": 44.46,
+                    "avg_contact_time": 526.77,
+                    "csat": 5,
+                    "tickets_total": 195,
+                    "tickets_done": 173,
+                    "tieckts_escalated": 22,
+                    "tickets_open": 0
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 6202.92,
+                    "avg_reso_time": 722.3,
+                    "avg_contact_time": 1039.87,
+                    "csat": 3,
+                    "tickets_total": 184,
+                    "tickets_done": 48,
+                    "tieckts_escalated": 101,
+                    "tickets_open": 35
+                }
+            ]
         },
         {
             "employee_id": "CS0000006",
-            "first_name": "Elizabeth",
-            "last_name": "Godfrey",
-            "avg_resp_time": 2518.13,
-            "avg_reso_time": 1038.36,
-            "avg_contact_time": 1644.08,
-            "csat": 1,
-            "tickets_total": 65,
-            "tickets_done": 9,
-            "tieckts_escalated": 3,
-            "tickets_open": 53
+            "first_name": "Lynnette",
+            "last_name": "Nettles",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 3225.68,
+                    "avg_reso_time": 1155.18,
+                    "avg_contact_time": 1676.62,
+                    "csat": 2,
+                    "tickets_total": 69,
+                    "tickets_done": 52,
+                    "tieckts_escalated": 10,
+                    "tickets_open": 7
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 2439.79,
+                    "avg_reso_time": 798.06,
+                    "avg_contact_time": 1587.48,
+                    "csat": 3,
+                    "tickets_total": 123,
+                    "tickets_done": 35,
+                    "tieckts_escalated": 30,
+                    "tickets_open": 58
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 3079.3,
+                    "avg_reso_time": 595.51,
+                    "avg_contact_time": 1177.71,
+                    "csat": 2,
+                    "tickets_total": 58,
+                    "tickets_done": 3,
+                    "tieckts_escalated": 36,
+                    "tickets_open": 19
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 4864.02,
+                    "avg_reso_time": 576.16,
+                    "avg_contact_time": 1413.11,
+                    "csat": 3,
+                    "tickets_total": 192,
+                    "tickets_done": 42,
+                    "tieckts_escalated": 91,
+                    "tickets_open": 59
+                }
+            ]
         },
         {
             "employee_id": "CS0000007",
-            "first_name": "Thomas",
-            "last_name": "Zink",
-            "avg_resp_time": 5809.98,
-            "avg_reso_time": 465.63,
-            "avg_contact_time": 1950.42,
-            "csat": 2,
-            "tickets_total": 192,
-            "tickets_done": 171,
-            "tieckts_escalated": 20,
-            "tickets_open": 1
+            "first_name": "Dennis",
+            "last_name": "Eldred",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 9522.7,
+                    "avg_reso_time": 825.31,
+                    "avg_contact_time": 668.26,
+                    "csat": 5,
+                    "tickets_total": 193,
+                    "tickets_done": 171,
+                    "tieckts_escalated": 15,
+                    "tickets_open": 7
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 1262.48,
+                    "avg_reso_time": 306.01,
+                    "avg_contact_time": 784.67,
+                    "csat": 2,
+                    "tickets_total": 70,
+                    "tickets_done": 61,
+                    "tieckts_escalated": 5,
+                    "tickets_open": 4
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 3529.35,
+                    "avg_reso_time": 673.9,
+                    "avg_contact_time": 1428.37,
+                    "csat": 3,
+                    "tickets_total": 164,
+                    "tickets_done": 119,
+                    "tieckts_escalated": 21,
+                    "tickets_open": 24
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 333.8,
+                    "avg_reso_time": 812.39,
+                    "avg_contact_time": 1614.08,
+                    "csat": 4,
+                    "tickets_total": 103,
+                    "tickets_done": 70,
+                    "tieckts_escalated": 12,
+                    "tickets_open": 21
+                }
+            ]
         },
         {
             "employee_id": "CS0000008",
-            "first_name": "Harriet",
-            "last_name": "Adams",
-            "avg_resp_time": 1319.89,
-            "avg_reso_time": 637.31,
-            "avg_contact_time": 1981.67,
-            "csat": 3,
-            "tickets_total": 41,
-            "tickets_done": 14,
-            "tieckts_escalated": 19,
-            "tickets_open": 8
+            "first_name": "Justin",
+            "last_name": "Walker",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 7189.57,
+                    "avg_reso_time": 1132.03,
+                    "avg_contact_time": 612.41,
+                    "csat": 2,
+                    "tickets_total": 159,
+                    "tickets_done": 74,
+                    "tieckts_escalated": 22,
+                    "tickets_open": 63
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 8460.29,
+                    "avg_reso_time": 1171.08,
+                    "avg_contact_time": 1925.99,
+                    "csat": 4,
+                    "tickets_total": 107,
+                    "tickets_done": 1,
+                    "tieckts_escalated": 54,
+                    "tickets_open": 52
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 9128.43,
+                    "avg_reso_time": 423.79,
+                    "avg_contact_time": 534.19,
+                    "csat": 2,
+                    "tickets_total": 125,
+                    "tickets_done": 116,
+                    "tieckts_escalated": 4,
+                    "tickets_open": 5
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 4310.37,
+                    "avg_reso_time": 404.87,
+                    "avg_contact_time": 1393.91,
+                    "csat": 4,
+                    "tickets_total": 153,
+                    "tickets_done": 86,
+                    "tieckts_escalated": 30,
+                    "tickets_open": 37
+                }
+            ]
         },
         {
             "employee_id": "CS0000009",
-            "first_name": "Clayton",
-            "last_name": "Mull",
-            "avg_resp_time": 9260.17,
-            "avg_reso_time": 644.8,
-            "avg_contact_time": 1514.59,
-            "csat": 3,
-            "tickets_total": 97,
-            "tickets_done": 11,
-            "tieckts_escalated": 34,
-            "tickets_open": 52
+            "first_name": "April",
+            "last_name": "Mejia",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 1220.78,
+                    "avg_reso_time": 410.7,
+                    "avg_contact_time": 1021.45,
+                    "csat": 1,
+                    "tickets_total": 198,
+                    "tickets_done": 80,
+                    "tieckts_escalated": 94,
+                    "tickets_open": 24
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 1517.31,
+                    "avg_reso_time": 926.5,
+                    "avg_contact_time": 1088.26,
+                    "csat": 1,
+                    "tickets_total": 90,
+                    "tickets_done": 78,
+                    "tieckts_escalated": 2,
+                    "tickets_open": 10
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 5940.03,
+                    "avg_reso_time": 407.54,
+                    "avg_contact_time": 1791.85,
+                    "csat": 5,
+                    "tickets_total": 110,
+                    "tickets_done": 91,
+                    "tieckts_escalated": 10,
+                    "tickets_open": 9
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 3820.91,
+                    "avg_reso_time": 697.08,
+                    "avg_contact_time": 883.71,
+                    "csat": 5,
+                    "tickets_total": 130,
+                    "tickets_done": 62,
+                    "tieckts_escalated": 65,
+                    "tickets_open": 3
+                }
+            ]
         },
         {
             "employee_id": "CS0000010",
-            "first_name": "Alma",
-            "last_name": "Collins",
-            "avg_resp_time": 3424.8,
-            "avg_reso_time": 822.3,
-            "avg_contact_time": 1376.66,
-            "csat": 2,
-            "tickets_total": 143,
-            "tickets_done": 67,
-            "tieckts_escalated": 26,
-            "tickets_open": 50
+            "first_name": "Barbara",
+            "last_name": "Gruber",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 793.85,
+                    "avg_reso_time": 1159.22,
+                    "avg_contact_time": 1161.98,
+                    "csat": 3,
+                    "tickets_total": 109,
+                    "tickets_done": 72,
+                    "tieckts_escalated": 12,
+                    "tickets_open": 25
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 9222.97,
+                    "avg_reso_time": 569.76,
+                    "avg_contact_time": 860.99,
+                    "csat": 1,
+                    "tickets_total": 107,
+                    "tickets_done": 22,
+                    "tieckts_escalated": 61,
+                    "tickets_open": 24
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 5934.54,
+                    "avg_reso_time": 833.61,
+                    "avg_contact_time": 1411.99,
+                    "csat": 4,
+                    "tickets_total": 145,
+                    "tickets_done": 91,
+                    "tieckts_escalated": 34,
+                    "tickets_open": 20
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 7772.7,
+                    "avg_reso_time": 1096.73,
+                    "avg_contact_time": 1885.94,
+                    "csat": 5,
+                    "tickets_total": 174,
+                    "tickets_done": 52,
+                    "tieckts_escalated": 65,
+                    "tickets_open": 57
+                }
+            ]
         },
         {
             "employee_id": "CS0000011",
-            "first_name": "Victor",
-            "last_name": "Pinon",
-            "avg_resp_time": 4217.69,
-            "avg_reso_time": 432.73,
-            "avg_contact_time": 823.72,
-            "csat": 1,
-            "tickets_total": 75,
-            "tickets_done": 62,
-            "tieckts_escalated": 7,
-            "tickets_open": 6
+            "first_name": "Jaclyn",
+            "last_name": "Worsham",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 4505.47,
+                    "avg_reso_time": 543.25,
+                    "avg_contact_time": 1464.33,
+                    "csat": 1,
+                    "tickets_total": 170,
+                    "tickets_done": 124,
+                    "tieckts_escalated": 10,
+                    "tickets_open": 36
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 8193.47,
+                    "avg_reso_time": 443.07,
+                    "avg_contact_time": 1550.35,
+                    "csat": 2,
+                    "tickets_total": 190,
+                    "tickets_done": 36,
+                    "tieckts_escalated": 108,
+                    "tickets_open": 46
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 3776.05,
+                    "avg_reso_time": 1017.65,
+                    "avg_contact_time": 1393.89,
+                    "csat": 2,
+                    "tickets_total": 171,
+                    "tickets_done": 116,
+                    "tieckts_escalated": 37,
+                    "tickets_open": 18
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 4513.81,
+                    "avg_reso_time": 803.68,
+                    "avg_contact_time": 1312.99,
+                    "csat": 3,
+                    "tickets_total": 140,
+                    "tickets_done": 106,
+                    "tieckts_escalated": 1,
+                    "tickets_open": 33
+                }
+            ]
         },
         {
             "employee_id": "CS0000012",
-            "first_name": "Kathleen",
-            "last_name": "Holland",
-            "avg_resp_time": 3194.49,
-            "avg_reso_time": 514.87,
-            "avg_contact_time": 782.19,
-            "csat": 5,
-            "tickets_total": 70,
-            "tickets_done": 52,
-            "tieckts_escalated": 11,
-            "tickets_open": 7
+            "first_name": "Roy",
+            "last_name": "Carter",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 1230.73,
+                    "avg_reso_time": 375.25,
+                    "avg_contact_time": 526.1,
+                    "csat": 1,
+                    "tickets_total": 164,
+                    "tickets_done": 18,
+                    "tieckts_escalated": 26,
+                    "tickets_open": 120
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 7134.75,
+                    "avg_reso_time": 693.11,
+                    "avg_contact_time": 727.0,
+                    "csat": 2,
+                    "tickets_total": 148,
+                    "tickets_done": 121,
+                    "tieckts_escalated": 7,
+                    "tickets_open": 20
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 1023.65,
+                    "avg_reso_time": 894.24,
+                    "avg_contact_time": 1889.78,
+                    "csat": 1,
+                    "tickets_total": 110,
+                    "tickets_done": 24,
+                    "tieckts_escalated": 65,
+                    "tickets_open": 21
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 4032.49,
+                    "avg_reso_time": 546.78,
+                    "avg_contact_time": 1700.26,
+                    "csat": 2,
+                    "tickets_total": 186,
+                    "tickets_done": 56,
+                    "tieckts_escalated": 29,
+                    "tickets_open": 101
+                }
+            ]
         },
         {
             "employee_id": "CS0000013",
-            "first_name": "Leona",
-            "last_name": "Tiefenauer",
-            "avg_resp_time": 7272.5,
-            "avg_reso_time": 446.9,
-            "avg_contact_time": 1768.88,
-            "csat": 3,
-            "tickets_total": 44,
-            "tickets_done": 35,
-            "tieckts_escalated": 4,
-            "tickets_open": 5
+            "first_name": "James",
+            "last_name": "Benward",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 4234.05,
+                    "avg_reso_time": 474.12,
+                    "avg_contact_time": 853.58,
+                    "csat": 3,
+                    "tickets_total": 146,
+                    "tickets_done": 14,
+                    "tieckts_escalated": 101,
+                    "tickets_open": 31
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 3492.61,
+                    "avg_reso_time": 398.59,
+                    "avg_contact_time": 1438.64,
+                    "csat": 3,
+                    "tickets_total": 147,
+                    "tickets_done": 68,
+                    "tieckts_escalated": 34,
+                    "tickets_open": 45
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 889.59,
+                    "avg_reso_time": 914.12,
+                    "avg_contact_time": 597.88,
+                    "csat": 5,
+                    "tickets_total": 187,
+                    "tickets_done": 61,
+                    "tieckts_escalated": 32,
+                    "tickets_open": 94
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 6401.33,
+                    "avg_reso_time": 1181.74,
+                    "avg_contact_time": 1695.1,
+                    "csat": 1,
+                    "tickets_total": 184,
+                    "tickets_done": 140,
+                    "tieckts_escalated": 20,
+                    "tickets_open": 24
+                }
+            ]
         },
         {
             "employee_id": "CS0000014",
-            "first_name": "Paul",
-            "last_name": "Pena",
-            "avg_resp_time": 8527.19,
-            "avg_reso_time": 886.84,
-            "avg_contact_time": 1874.87,
-            "csat": 5,
-            "tickets_total": 150,
-            "tickets_done": 111,
-            "tieckts_escalated": 32,
-            "tickets_open": 7
+            "first_name": "Susan",
+            "last_name": "Rooney",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 4512.85,
+                    "avg_reso_time": 1010.08,
+                    "avg_contact_time": 770.16,
+                    "csat": 5,
+                    "tickets_total": 125,
+                    "tickets_done": 35,
+                    "tieckts_escalated": 70,
+                    "tickets_open": 20
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 7645.9,
+                    "avg_reso_time": 1158.23,
+                    "avg_contact_time": 1184.07,
+                    "csat": 5,
+                    "tickets_total": 82,
+                    "tickets_done": 81,
+                    "tieckts_escalated": 1,
+                    "tickets_open": 0
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 4751.93,
+                    "avg_reso_time": 1048.75,
+                    "avg_contact_time": 1240.45,
+                    "csat": 5,
+                    "tickets_total": 159,
+                    "tickets_done": 49,
+                    "tieckts_escalated": 38,
+                    "tickets_open": 72
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 9672.3,
+                    "avg_reso_time": 362.81,
+                    "avg_contact_time": 1886.7,
+                    "csat": 4,
+                    "tickets_total": 181,
+                    "tickets_done": 156,
+                    "tieckts_escalated": 1,
+                    "tickets_open": 24
+                }
+            ]
         },
         {
             "employee_id": "CS0000015",
-            "first_name": "Ronald",
-            "last_name": "Kell",
-            "avg_resp_time": 7528.48,
-            "avg_reso_time": 865.85,
-            "avg_contact_time": 1759.71,
-            "csat": 5,
-            "tickets_total": 114,
-            "tickets_done": 96,
-            "tieckts_escalated": 10,
-            "tickets_open": 8
+            "first_name": "Donna",
+            "last_name": "Mcguire",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 2594.55,
+                    "avg_reso_time": 1107.37,
+                    "avg_contact_time": 1684.07,
+                    "csat": 3,
+                    "tickets_total": 148,
+                    "tickets_done": 90,
+                    "tieckts_escalated": 28,
+                    "tickets_open": 30
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 1465.15,
+                    "avg_reso_time": 358.84,
+                    "avg_contact_time": 884.13,
+                    "csat": 5,
+                    "tickets_total": 180,
+                    "tickets_done": 154,
+                    "tieckts_escalated": 18,
+                    "tickets_open": 8
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 1380.33,
+                    "avg_reso_time": 672.41,
+                    "avg_contact_time": 1208.93,
+                    "csat": 3,
+                    "tickets_total": 193,
+                    "tickets_done": 120,
+                    "tieckts_escalated": 57,
+                    "tickets_open": 16
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 6853.91,
+                    "avg_reso_time": 883.79,
+                    "avg_contact_time": 1144.92,
+                    "csat": 3,
+                    "tickets_total": 95,
+                    "tickets_done": 34,
+                    "tieckts_escalated": 28,
+                    "tickets_open": 33
+                }
+            ]
         },
         {
             "employee_id": "CS0000016",
-            "first_name": "Sharon",
-            "last_name": "Suitt",
-            "avg_resp_time": 6924.32,
-            "avg_reso_time": 1026.36,
-            "avg_contact_time": 906.51,
-            "csat": 4,
-            "tickets_total": 198,
-            "tickets_done": 157,
-            "tieckts_escalated": 15,
-            "tickets_open": 26
+            "first_name": "Jason",
+            "last_name": "Reynolds",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 2478.69,
+                    "avg_reso_time": 803.88,
+                    "avg_contact_time": 1851.72,
+                    "csat": 2,
+                    "tickets_total": 72,
+                    "tickets_done": 9,
+                    "tieckts_escalated": 7,
+                    "tickets_open": 56
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 6980.76,
+                    "avg_reso_time": 372.49,
+                    "avg_contact_time": 568.24,
+                    "csat": 1,
+                    "tickets_total": 65,
+                    "tickets_done": 24,
+                    "tieckts_escalated": 11,
+                    "tickets_open": 30
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 7506.57,
+                    "avg_reso_time": 1016.14,
+                    "avg_contact_time": 1837.97,
+                    "csat": 1,
+                    "tickets_total": 182,
+                    "tickets_done": 170,
+                    "tieckts_escalated": 7,
+                    "tickets_open": 5
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 2473.94,
+                    "avg_reso_time": 328.0,
+                    "avg_contact_time": 1375.91,
+                    "csat": 5,
+                    "tickets_total": 199,
+                    "tickets_done": 122,
+                    "tieckts_escalated": 43,
+                    "tickets_open": 34
+                }
+            ]
         },
         {
             "employee_id": "CS0000017",
-            "first_name": "Jerry",
-            "last_name": "Sipos",
-            "avg_resp_time": 144.97,
-            "avg_reso_time": 237.36,
-            "avg_contact_time": 865.62,
-            "csat": 5,
-            "tickets_total": 156,
-            "tickets_done": 37,
-            "tieckts_escalated": 107,
-            "tickets_open": 12
+            "first_name": "Peggy",
+            "last_name": "Ferreira",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 5749.14,
+                    "avg_reso_time": 580.76,
+                    "avg_contact_time": 1553.54,
+                    "csat": 5,
+                    "tickets_total": 48,
+                    "tickets_done": 27,
+                    "tieckts_escalated": 10,
+                    "tickets_open": 11
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 1456.29,
+                    "avg_reso_time": 592.98,
+                    "avg_contact_time": 906.67,
+                    "csat": 2,
+                    "tickets_total": 100,
+                    "tickets_done": 44,
+                    "tieckts_escalated": 34,
+                    "tickets_open": 22
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 5798.0,
+                    "avg_reso_time": 500.22,
+                    "avg_contact_time": 1766.95,
+                    "csat": 3,
+                    "tickets_total": 48,
+                    "tickets_done": 18,
+                    "tieckts_escalated": 3,
+                    "tickets_open": 27
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 659.4,
+                    "avg_reso_time": 1079.54,
+                    "avg_contact_time": 581.33,
+                    "csat": 1,
+                    "tickets_total": 164,
+                    "tickets_done": 33,
+                    "tieckts_escalated": 119,
+                    "tickets_open": 12
+                }
+            ]
         },
         {
             "employee_id": "CS0000018",
-            "first_name": "Thomas",
-            "last_name": "Nguyen",
-            "avg_resp_time": 1617.07,
-            "avg_reso_time": 1092.26,
-            "avg_contact_time": 645.38,
-            "csat": 5,
-            "tickets_total": 115,
-            "tickets_done": 69,
-            "tieckts_escalated": 41,
-            "tickets_open": 5
+            "first_name": "Erwin",
+            "last_name": "Smith",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 8645.66,
+                    "avg_reso_time": 1089.88,
+                    "avg_contact_time": 1783.36,
+                    "csat": 3,
+                    "tickets_total": 77,
+                    "tickets_done": 16,
+                    "tieckts_escalated": 9,
+                    "tickets_open": 52
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 338.51,
+                    "avg_reso_time": 616.03,
+                    "avg_contact_time": 679.12,
+                    "csat": 3,
+                    "tickets_total": 89,
+                    "tickets_done": 36,
+                    "tieckts_escalated": 31,
+                    "tickets_open": 22
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 7790.86,
+                    "avg_reso_time": 514.45,
+                    "avg_contact_time": 1632.29,
+                    "csat": 3,
+                    "tickets_total": 188,
+                    "tickets_done": 26,
+                    "tieckts_escalated": 71,
+                    "tickets_open": 91
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 8247.72,
+                    "avg_reso_time": 502.99,
+                    "avg_contact_time": 678.16,
+                    "csat": 3,
+                    "tickets_total": 165,
+                    "tickets_done": 140,
+                    "tieckts_escalated": 4,
+                    "tickets_open": 21
+                }
+            ]
         },
         {
             "employee_id": "CS0000019",
-            "first_name": "Chris",
-            "last_name": "Swinton",
-            "avg_resp_time": 2408.92,
-            "avg_reso_time": 715.33,
-            "avg_contact_time": 783.19,
-            "csat": 5,
-            "tickets_total": 42,
-            "tickets_done": 19,
-            "tieckts_escalated": 20,
-            "tickets_open": 3
+            "first_name": "Charles",
+            "last_name": "Bauman",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 2351.16,
+                    "avg_reso_time": 480.24,
+                    "avg_contact_time": 1568.36,
+                    "csat": 4,
+                    "tickets_total": 104,
+                    "tickets_done": 38,
+                    "tieckts_escalated": 56,
+                    "tickets_open": 10
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 3639.19,
+                    "avg_reso_time": 974.68,
+                    "avg_contact_time": 793.31,
+                    "csat": 4,
+                    "tickets_total": 105,
+                    "tickets_done": 96,
+                    "tieckts_escalated": 4,
+                    "tickets_open": 5
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 3991.18,
+                    "avg_reso_time": 1167.7,
+                    "avg_contact_time": 1922.81,
+                    "csat": 5,
+                    "tickets_total": 51,
+                    "tickets_done": 35,
+                    "tieckts_escalated": 11,
+                    "tickets_open": 5
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 1124.32,
+                    "avg_reso_time": 1058.47,
+                    "avg_contact_time": 956.92,
+                    "csat": 1,
+                    "tickets_total": 50,
+                    "tickets_done": 1,
+                    "tieckts_escalated": 3,
+                    "tickets_open": 46
+                }
+            ]
         },
         {
             "employee_id": "CS0000020",
-            "first_name": "John",
-            "last_name": "Vanvalkenburg",
-            "avg_resp_time": 2431.42,
-            "avg_reso_time": 1194.66,
-            "avg_contact_time": 1767.88,
-            "csat": 1,
-            "tickets_total": 56,
-            "tickets_done": 31,
-            "tieckts_escalated": 24,
-            "tickets_open": 1
+            "first_name": "Lowell",
+            "last_name": "Wilkins",
+            "kpi": [
+                {
+                    "quarter": "Q1/24",
+                    "avg_resp_time": 9345.92,
+                    "avg_reso_time": 813.45,
+                    "avg_contact_time": 1821.77,
+                    "csat": 3,
+                    "tickets_total": 121,
+                    "tickets_done": 35,
+                    "tieckts_escalated": 25,
+                    "tickets_open": 61
+                },
+                {
+                    "quarter": "Q2/24",
+                    "avg_resp_time": 4599.19,
+                    "avg_reso_time": 1061.34,
+                    "avg_contact_time": 989.7,
+                    "csat": 4,
+                    "tickets_total": 63,
+                    "tickets_done": 11,
+                    "tieckts_escalated": 28,
+                    "tickets_open": 24
+                },
+                {
+                    "quarter": "Q3/24",
+                    "avg_resp_time": 8437.93,
+                    "avg_reso_time": 992.66,
+                    "avg_contact_time": 1950.49,
+                    "csat": 3,
+                    "tickets_total": 168,
+                    "tickets_done": 139,
+                    "tieckts_escalated": 20,
+                    "tickets_open": 9
+                },
+                {
+                    "quarter": "Q4/24",
+                    "avg_resp_time": 1887.85,
+                    "avg_reso_time": 326.63,
+                    "avg_contact_time": 571.14,
+                    "csat": 3,
+                    "tickets_total": 78,
+                    "tickets_done": 7,
+                    "tieckts_escalated": 38,
+                    "tickets_open": 33
+                }
+            ]
         }
     ]
 }
